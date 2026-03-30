@@ -1,4 +1,4 @@
-# 🎓 School Student Bot
+# 🎓 TG03_school_bot_project
 
 Современный Telegram-бот на **Python + aiogram 3 + SQLite**, который по шагам запрашивает у пользователя **имя**, **возраст** и **класс**, а затем сохраняет данные в базу данных **school_data.db** в таблицу **students**.
 
@@ -28,23 +28,23 @@
 ## 🚀 Как запустить
 
 1. Создай бота в Telegram
-- Открой Telegram.
-- Найди @BotFather.
-- Отправь команду /newbot.
-- Придумай имя и username для бота.
-- Скопируй токен.
+    - Открой Telegram.
+    - Найди @BotFather.
+    - Отправь команду /newbot.
+    - Придумай имя и username для бота.
+    - Скопируй токен.
 
 2. Подготовь файл .env
 
-- Вставь туда через Терминал: BOT_TOKEN=сюда_вставь_токен_от_BotFather
+    - Вставь туда через Терминал: BOT_TOKEN=сюда_вставь_токен_от_BotFather
 
 3. Установи зависимости
 
-- Вставь через Терминал: pip install -r requirements.txt
+    - Вставь через Терминал: pip install -r requirements.txt
 
 4. Запусти бота 
 
-- Вставь через Телеграм: python app.py
+    - Вставь через Телеграм: python app.py
 
 ---
 
