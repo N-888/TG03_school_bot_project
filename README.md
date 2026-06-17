@@ -105,3 +105,11 @@ school_bot_project/
 └── states/
     ├── __init__.py
     └── student_form.py
+---
+
+## Контакты
+
+- **Telegram:** [@Tpomoschnik](https://t.me/Tpomoschnik)
+- **Телефон:** +7-925-104-10-73
+- **Email:** mamambell@gmail.com
+- **GitHub:** [N-888](https://github.com/N-888)
